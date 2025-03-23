@@ -74,6 +74,4 @@ public class Mensaje implements Serializable {
 	public String toString() {
 		return "Cliente [name=" + name + ", mensaje=" + mensaje + "]";
 	}
-	
-	
 }
