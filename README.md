@@ -1,4 +1,4 @@
-# Práctica 7: Cliente - Servidor
+# Cliente - Servidor
 
 ## Descripción
 
